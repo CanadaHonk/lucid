@@ -1,0 +1,15 @@
+{
+  "name": "lucid",
+  "version": "0.1.0",
+  "description": "Experimental JS deobfuscator via regex static analysis.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "deobfuscator"
+  ],
+  "author": "honk.camp",
+  "license": "MIT",
+  "type": "module"
+}
